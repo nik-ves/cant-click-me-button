@@ -1,1 +1,1 @@
-# cant-click-me-button
+A button that cannot be clicked.
